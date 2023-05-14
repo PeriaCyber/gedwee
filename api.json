@@ -1,12 +1,20 @@
 {
-    "clientVersionCode": 4,
+    "clientVersionCode": 1,
     "gameFilesVersionCode": 1,
-    "URL_GAME_FILES" : "http://191.96.92.62/game.zip",
-    "URL_GAME_FILES_UPD" : "http://191.96.92.62/files_upd.zip",
+    "URL_GAME_FILES" : "http://191.96.92.66/game.zip",
+    "URL_GAME_FILES_UPD" : "http://191.96.92.66/files_upd.zip",
     "URL_VK": "https://",
     "URL_DISCORD": "https://",
     "URL_YOUTUBE": "https://",
     "URL_FORUM": "https://",
     "URL_DONATE": "https://",
-    "URL_CLIENT": "http://191.96.92.66/gedwee.apk"
+    "URL_CLIENT": "http://191.96.92.66/client.apk",
+    "IMAGE_NEWS": "https://",
+    "TITLE_NEWS": "https://",
+    "DESC_NEWS": "https://",
+    "LINK_NEWS": "https://",
+    "IMAGE_OPROS": "https://",
+    "TITLE_OPROS": "http://",
+    "DESC_OPROS": "https://",
+    "LINK_OPROS": "http://"
 }
